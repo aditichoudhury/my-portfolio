@@ -1,0 +1,17 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="40" y2="40" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFBC5E" />
+      <stop offset="100%" stop-color="#FF9E3A" />
+    </linearGradient>
+  </defs>
+  <!-- Browser Window -->
+  <rect x="5" y="8" width="30" height="24" rx="2" stroke="#FFBC5E" stroke-width="2" fill="none" />
+  <!-- Browser Tabs -->
+  <line x1="5" y1="12" x2="35" y2="12" stroke="#FFBC5E" stroke-width="2" />
+  <!-- Code Brackets -->
+  <polyline points="15,20 12,22 15,24" stroke="url(#gradient)" stroke-width="2" fill="none" />
+  <polyline points="25,20 28,22 25,24" stroke="url(#gradient)" stroke-width="2" fill="none" />
+  <!-- Forward Slash -->
+  <line x1="19" y1="20" x2="21" y2="24" stroke="url(#gradient)" stroke-width="2" />
+</svg>

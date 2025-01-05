@@ -1,0 +1,14 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Pie Chart -->
+  <circle cx="20" cy="20" r="15" stroke="#FFBC5E" stroke-width="1.5" fill="none" />
+  <path d="M20 20 L20 5 A15 15 0 0 1 35 20 Z" fill="none" stroke="#FFBC5E" stroke-width="1.5" />
+  
+  <!-- Line Graph -->
+  <polyline points="5,35 12,25 20,30 28,18 35,25" fill="none" stroke="#FFBC5E" stroke-width="1.5" />
+
+  <!-- Scatter Plot Points -->
+  <circle cx="12" cy="25" r="1.5" fill="#FFBC5E" />
+  <circle cx="20" cy="30" r="1.5" fill="#FFBC5E" />
+  <circle cx="28" cy="18" r="1.5" fill="#FFBC5E" />
+  <circle cx="35" cy="25" r="1.5" fill="#FFBC5E" />
+</svg>
